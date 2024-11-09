@@ -27,13 +27,13 @@ The **Symptom Solver** is an AI-powered disease prediction and medicine recommen
 - Streamlit
 - NumPy, Pandas, and other necessary libraries
 
-Steps to Run the Project:
-1) Clone the repository: 
+## Steps to Run the Project:
+1) **Clone the repository**: 
 git clone https://github.com/your-username/The-Symptom-Solver-AI-Powered-Disease-and-Medicine-Prediction-System.git
-2) Install dependencies:
+2) **Install dependencies**:
 cd The-Symptom-Solver-AI-Powered-Disease-and-Medicine-Prediction-System
 pip install -r requirements.txt
-3) Run the Streamlit app:
+3) **Run the Streamlit app**:
 streamlit run app.py
 4) The application will open in your default browser. You can now input symptoms, select severity, age group, and gender, and receive disease predictions and medicine recommendations.
 
