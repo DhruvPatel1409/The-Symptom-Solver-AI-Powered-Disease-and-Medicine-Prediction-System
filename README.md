@@ -11,7 +11,7 @@ Severity-based Input: Allows the user to specify the severity of their symptoms 
 User-Friendly Interface: Built using Streamlit, the system provides a simple and intuitive interface for users to interact with.
 
 Technologies Used:
-Python: Core programming language used to build the model and the web app.
+Python: Core programming language used to build the model and the web app. 
 Keras: Used for building and training the machine learning model.
 TensorFlow: Framework for implementing the deep learning model.
 Streamlit: Framework for creating the interactive web application.
