@@ -4,7 +4,7 @@ Overview :
 "The Symptom Solver" is an AI-powered disease and medicine prediction system designed to help users identify potential health conditions based on their symptoms. Using machine learning algorithms, this system predicts diseases and recommends medicines by analyzing user inputs. The system also categorizes diseases based on severity and recommends effective treatments tailored to each condition.
 
 Key Features :
-Disease Prediction: The system predicts a disease or health condition based on the symptoms provided by the user.
+Disease Prediction: The system predicts a disease or health condition based on the symptoms provided by the user. 
 Medicine Recommendation: Recommends relevant medicines based on the predicted disease or health condition.
 Age and Gender Filtering: Includes features to select the age group and gender for more accurate predictions.
 Severity-based Input: Allows the user to specify the severity of their symptoms (mild, moderate, severe) to enhance the prediction accuracy.
